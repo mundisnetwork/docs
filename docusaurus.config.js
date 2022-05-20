@@ -38,6 +38,11 @@ module.exports = {
       },
       items: [
         {
+          to: "rattle-shake/register",
+          label: "Rattle & Shake",
+          position: "left",
+        },
+        {
           href: "https://discord.gg/8G2xEFJ5h7",
           label: "Chat",
           position: "right",
@@ -48,13 +53,6 @@ module.exports = {
           position: "right",
         },
       ],
-    },
-    algolia: {
-      // This API key is "search-only" and safe to be published
-      appId: "I51CE3JDW2",
-      apiKey: "453c0ac77d7e484d36eee58a967b335e",
-      indexName: "mundis",
-      contextualSearch: true,
     },
     footer: {
       style: "dark",

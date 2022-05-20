@@ -26,3 +26,7 @@ served using any static content hosting service.
 ```sh
 $ npm run build
 ```
+
+### Deploy
+
+GIT_USER=<....> npm run deploy
