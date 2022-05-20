@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmundis_docs=self.webpackChunkmundis_docs||[]).push([[24],{1024:function(s,u,c){c.r(u)}}]);
