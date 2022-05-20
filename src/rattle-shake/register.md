@@ -8,11 +8,9 @@ The Mundis Foundation awards future MDIS mainnet coins for successfully particip
 
 Please note: Mundis networks are permissionless and therefore anyone can begin running a validator node at any time. Registration and KYC are only required to receive compensation or delegations from the Mundis Foundation. Please note that U.S. entities and individuals are not eligible to receive compensation at this time.
 
-## Requirements
+## 1. Get the appropriate hardware & software
 
-### 1. Get the appropriate hardware & software
-
-OS: We build and run on Ubuntu 20.04
+Software: Prebuilt binaries are available for Linux x86_64. We build and run on **Ubuntu 20.04**
 
 Hardware Recommendations:
 
@@ -21,6 +19,7 @@ Hardware Recommendations:
   * 2.6GHz, or faster
   * AVX2 instruction support (to use official release binaries, self-compile otherwise)
   * Support for AVX512f and/or SHA-NI instructions is helpful
+  * The AMD Threadripper family is popular between validators
 * RAM
   * 16GB, or more
 * Disk
@@ -33,7 +32,13 @@ Hardware Recommendations:
 * GPU
   * Not strictly necessary at this time
 
-### 2. Generate your public key
+Network requirements:
+
+* Ensure the machine used is not behind a residential NAT to avoid NAT traversal issues. A cloud-hosted machine works best.
+* Ensure that IP ports 8000 through 10000 are not blocked for Internet inbound and outbound traffic.
+
+
+## 2. Generate your public key
 
 In order to obtain your allotment of MDIS coins, you need to publish your validator's identity public key under your [keybase.io](https://keybase.io) account.
 
@@ -69,15 +74,20 @@ You must link your Mundis pubkey to a [keybase.io](https://keybase.io) account. 
 5. Check that your public key was published by pointing your browser to: ``https://keybase.pub/<KEYBASE_USERNAME>/mundis/validator-<BASE58_PUBKEY>``
 
 
-### 3. Fill the Validator Registration Form
+## 3. Fill the Validator Registration Form
 
 Fill the registration form by pointing your browser to: [https://mundis.io/registration](https://mundis.io/registration)
 
-### 4. Wait for the approval
+## 4. Wait for the approval
 
 Wait for the approval from us before starting your validator.
 
-### Legal stuff
+## Suff
+
+The devnet is configured to reset the ledger daily, or sooner should the hourly automated cluster sanity test fail.
+
+
+## Legal stuff
 
 Participants must read and agree with the [Rattle & Shake participation agreement](terms.md) and pass KYC/AML to be eligible for rewards.
 

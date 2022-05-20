@@ -28,5 +28,5 @@ yarn-error.log*
 /src/cli/usage.md
 /src/.gitbook/assets/*.svg
 
-.idea/
+/.idea/
 *.iml
