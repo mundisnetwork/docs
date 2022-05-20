@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0f85170b-e3c1-4836-9aed-624245420108" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/docs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docusaurus.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sidebars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backbone/layer0.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backbone/layer1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backbone/overview.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backbone/security.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backbone/services.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/introduction.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/metaverse.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multiverse/access.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multiverse/activities.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multiverse/citizens.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multiverse/gaming.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multiverse/layer2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multiverse/nft.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multiverse/structure.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rattle-shake/faq.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rattle-shake/register.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rattle-shake/terms.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/terminology.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/logo-mundis-horizontal-dark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/logo-mundis-horizontal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/contrib/auto-render.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/contrib/auto-render.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/contrib/auto-render.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/contrib/copy-tex.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/contrib/copy-tex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/contrib/copy-tex.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/contrib/copy-tex.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/contrib/copy-tex.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/contrib/mathtex-script-type.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/contrib/mathtex-script-type.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/contrib/mathtex-script-type.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/contrib/mhchem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/contrib/mhchem.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/contrib/mhchem.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/contrib/render-a11y-string.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/contrib/render-a11y-string.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/contrib/render-a11y-string.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_AMS-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_AMS-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_AMS-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Caligraphic-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Caligraphic-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Caligraphic-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Caligraphic-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Caligraphic-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Caligraphic-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Fraktur-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Fraktur-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Fraktur-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Fraktur-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Fraktur-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Fraktur-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Main-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Main-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Main-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Main-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Main-BoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Main-BoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Main-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Main-Italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Main-Italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Main-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Main-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Main-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Math-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Math-BoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Math-BoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Math-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Math-Italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Math-Italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_SansSerif-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_SansSerif-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_SansSerif-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_SansSerif-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_SansSerif-Italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_SansSerif-Italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_SansSerif-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_SansSerif-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_SansSerif-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Script-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Script-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Script-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Size1-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Size1-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Size1-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Size2-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Size2-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Size2-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Size3-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Size3-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Size3-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Size4-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Size4-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Size4-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Typewriter-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Typewriter-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/fonts/KaTeX_Typewriter-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/katex.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/katex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/katex.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/katex.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/katex/katex.mjs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="vn2drthf" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="29Nbpf6CRR5VEGdzhnv5zyrj8Pf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/flavius/workblk/docs/static/img&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/backbone" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/backbone/layer0" />
+      <recent name="$PROJECT_DIR$/src/intro" />
+      <recent name="$PROJECT_DIR$/static/img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f85170b-e3c1-4836-9aed-624245420108" name="Changes" comment="" />
+      <created>1652956674428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652956674428</updated>
+      <workItem from="1652956676418" duration="3189000" />
+      <workItem from="1653031236623" duration="12197000" />
+      <workItem from="1653049162525" duration="2911000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
