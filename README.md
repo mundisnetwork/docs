@@ -24,5 +24,5 @@ This command generates static content into the `build` directory and can be
 served using any static content hosting service.
 
 ```sh
-$ docs/build.sh
+$ npm run build
 ```
