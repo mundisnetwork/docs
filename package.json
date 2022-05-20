@@ -7,7 +7,6 @@
     "build": "docusaurus build",
     "clear": "docusaurus clear",
     "help": "docusaurus --help",
-    "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "format": "prettier --check \"**/*.{js,jsx,json,md,scss}\"",
     "format:fix": "prettier --write \"**/*.{js,jsx,json,md,scss}\"",
