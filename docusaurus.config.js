@@ -6,8 +6,10 @@ module.exports = {
   url: "https://docs.mundis.io",
   baseUrl: "/",
   favicon: "img/favicon.png",
-  organizationName: "mundis-labs", // Usually your GitHub org/user name.
-  projectName: "mundis", // Usually your repo name.
+  organizationName: "mundisnetwork", // Usually your GitHub org/user name.
+  projectName: "docs", // Usually your repo name
+  deploymentBranch: "gh-pages",
+  trailingSlash: false,
   onBrokenLinks: "throw",
   stylesheets: [
     {
