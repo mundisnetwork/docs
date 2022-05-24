@@ -76,7 +76,7 @@ You must link your Mundis pubkey to a [keybase.io](https://keybase.io) account. 
 
 ## 3. Fill the Validator Registration Form
 
-Fill the registration form by pointing your browser to: [https://mundis.io/registration](https://mundis.io/registration)
+Fill the registration form by pointing your browser to: [https://forms.gle/spPFa3jHRV9eniB7A](https://forms.gle/spPFa3jHRV9eniB7A)
 
 ## 4. Wait for the approval
 
