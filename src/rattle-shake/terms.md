@@ -50,12 +50,12 @@ toward each other in order to test the security and robustness of the network.
 
 (d) As a participant in Rattle & Shake, the Company will issue you devnet and testnet tokens for use solely
 during Rattle & Shake in order to provide the R&S Services. The devnet/testnet tokens have no
-monetary value, cannot be exchanged for Mundis mainnet tokens (“MDIS”), cash, securities or
+monetary value, cannot be exchanged for Mundis mainnet coins (“MUNDIS”), cash, securities or
 other property, and are at all times the sole property of the Company. At the completion of
 Rattle & Shake (or, if earlier, when you cease to be a participant in Rattle & Shake), all devnet and testnet
 tokens will be automatically returned to the Company. At all times during Rattle & Shake
 and thereafter, you have no rights, title or ownership interests in or to the devnet/testnet tokens or
-to any number of MDIS related to the number of devnet and testnet tokens the Company provided to you
+to any number of MUNDIS related to the number of devnet and testnet tokens the Company provided to you
 as part of Rattle & Shake. You expressly represent and warrant that you have no expectation
 of ownership of or profit from the devnet or testnet tokens.
 
@@ -67,29 +67,29 @@ the minimum level of R&S Services described above.
 participant. Based on the absolute and relative performance rendered by each participant
 who competed Rattle & Shake in good standing and without engaging in prohibited conduct
 (as described below) (any such participants, the “Finalists”) the Company will determine
-whether and how many MDIS to award to each Finalist in its sole and absolute discretion as a
-reward for completing Rattle & Shake and being a Finalist (each, a “MDIS Reward”). However,
-in no event will any participant receive more than 150,000 MDIS in any given stage of Rattle & Shake, 
-so that the maximum MDIS Reward for a participant who completes all stages will
-not be greater than 150,000 SOLs. The Company will review performance and make
+whether and how many MUNDIS to award to each Finalist in its sole and absolute discretion as a
+reward for completing Rattle & Shake and being a Finalist (each, a “MUNDIS Reward”). However,
+in no event will any participant receive more than 150,000 MUNDIS in any given stage of Rattle & Shake, 
+so that the maximum MUNDIS Reward for a participant who completes all stages will
+not be greater than 150,000 MUNDIS. The Company will review performance and make
 determinations not later than 45 days after Rattle & Shake has ended and intends to issue
-any MDIS Rewards after the Mundis mainnet is launched.
+any MUNDIS Rewards after the Mundis mainnet is launched.
 
-(g) MDIS will be offered as MDIS Rewards; however, the Company makes no promises that each
-Finalist will receive any minimum or maximum number of MDIS as a MDIS Reward. The Company
-has no obligation to distribute or award all of these MDIS at the conclusion of Rattle & Shake.
-No participant has a legally binding right to receive any MDIS as a result of their participation
-in Rattle & Shake. The Company will be relieved of any and all obligations to issue MDIS
+(g) MUNDIS will be offered as MUNDIS Rewards; however, the Company makes no promises that each
+Finalist will receive any minimum or maximum number of MUNDIS as a MUNDIS Reward. The Company
+has no obligation to distribute or award all of these MUNDIS at the conclusion of Rattle & Shake.
+No participant has a legally binding right to receive any MUNDIS as a result of their participation
+in Rattle & Shake. The Company will be relieved of any and all obligations to issue MUNDIS
 Rewards if the Company, in consultation with legal counsel, determines that such issuances
 cannot be completed at a commercially reasonable cost without violating applicable laws.
 
 (h) Any assets that the Company may set aside to help cover any liabilities with respect to this
-Rattle & Shake, including any MDIS Rewards, are and will remain general assets of the Company
+Rattle & Shake, including any MUNDIS Rewards, are and will remain general assets of the Company
 and subject to the claims of the Company’s creditors. 
 
-(i) To receive any MDIS Reward, a Finalist must sign the Company’s standard form of MDIS Reward
+(i) To receive any MUNDIS Reward, a Finalist must sign the Company’s standard form of MUNDIS Reward
 Agreement which will include the terms and conditions governing the ownership and use of
-the MDIS that are issued as the MDIS Reward, including but not limited to applicable lockups
+the MUNDIS that are issued as the MUNDIS Reward, including but not limited to applicable lockups
 required by securities laws, blackout dates and tax reporting information. 
 
 (j) Participation in Rattle & Shake does not create an employment relationship between the
@@ -104,7 +104,7 @@ participation in the Company’s employee benefit programs, unemployment benefit
 compensatory arrangements for service providers by virtue of their participation in Rattle & Shake. 
 Each participant is solely responsible for all foreign, federal, state and local taxes,
 interest and penalties associated with the participant’s eligibility to receive, receipt of and
-disposition of MDISs in connection with Rattle & Shake.
+disposition of MUNDISs in connection with Rattle & Shake.
 
 (k) With respect to each participant, the Company will not withhold any amounts for payment
 of any federal, state, or local taxes unless applicable law requires us to do so. You expressly
@@ -147,7 +147,7 @@ https://cloud.google.com/terms/aup.
 * Submit fraudulent or otherwise improper submission materials.
 
 (b) Enforcement of this Section could result in the participant being disqualified, the participant’s
-MDIS Rewards being voided or other actions, as determined solely by the Company in its
+MUNDIS Rewards being voided or other actions, as determined solely by the Company in its
 discretion. Further, enforcement of this Section is solely at Company’s discretion, and failure
 to enforce this section in some instances does not constitute a waiver of our right to enforce
 it in other instances. In addition, this Section does not create any private right of action on
@@ -232,7 +232,7 @@ partners and employees (individually and collectively, the “Company Parties”
 any losses, liabilities, claims, demands, damages, expenses or costs (“Claims”) arising out of or
 related to (a) your access to or use of the Mundis Services; (b) your provision of the R&S Services,
 including but not limited to your contributions, developments or Feedback or your receipt of
-MDISs as MDIS Rewards or Bug Bounties; (c) your violation of these Terms; (d) your violation,
+MUNDISs as MUNDIS Rewards or Bug Bounties; (c) your violation of these Terms; (d) your violation,
 misappropriation or infringement of any rights of another (including intellectual property rights
 or privacy rights); or (e) your conduct in connection with the Mundis Services or your participation
 in Rattle & Shake. You agree to promptly notify the Company Parties of any third-party Claims,

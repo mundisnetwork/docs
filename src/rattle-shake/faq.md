@@ -11,7 +11,7 @@ Please see section “1 Eligibility; KYC Requirements” of the [Terms of Partic
 ## Do I have to complete the KYC/AML process to participate?
 Yes. Completing the KYC/AML process is mandatory.
 
-## What are my responsibilities as a Tour de Sol participant?
+## What are my responsibilities as a Rattle & Shake participant?
 Please see section “2c Rattle & Shake Details” of the [Terms of Participation](terms) for details.
 
 ## How is the “90% of the active R&S event time” responsibility calculated?

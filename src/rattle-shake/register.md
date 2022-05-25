@@ -4,7 +4,7 @@ title: Registration
 
 Register for The Mundis incentivized devnet program, Rattle & Shake! Eligible applicants may receive compensation from the Mundis Foundation for actively participating as a validator and successfully completing one or more stages of Rattle & Shake.
 
-The Mundis Foundation awards future MDIS mainnet coins for successfully participating in each stage of Rattle & Shake.
+The Mundis Foundation awards future MUNDIS mainnet coins for successfully participating in each stage of Rattle & Shake.
 
 Please note: Mundis networks are permissionless and therefore anyone can begin running a validator node at any time. Registration and KYC are only required to receive compensation or delegations from the Mundis Foundation. Please note that U.S. entities and individuals are not eligible to receive compensation at this time.
 
@@ -40,7 +40,7 @@ Network requirements:
 
 ## 2. Generate your public key
 
-In order to obtain your allotment of MDIS coins, you need to publish your validator's identity public key under your [keybase.io](https://keybase.io) account.
+In order to obtain your allotment of MUNDIS coins, you need to publish your validator's identity public key under your [keybase.io](https://keybase.io) account.
 
 1. Generate your validator's identity keypair by running:
 
@@ -56,7 +56,7 @@ mundis-keygen pubkey ~/validator-keypair.json
 
 Your validator identity keypair uniquely identifies your validator within the network. **It is crucial to back-up this information**.
 
-If you don’t back up this information, you **WILL NOT BE ABLE TO RECOVER YOUR VALIDATOR**, if you lose access to it. If this happens, YOU WILL LOSE YOUR ALLOCATION OF SOL TOO.
+If you don’t back up this information, you **WILL NOT BE ABLE TO RECOVER YOUR VALIDATOR**, if you lose access to it. If this happens, YOU WILL LOSE YOUR ALLOCATION OF MUNDIS COINS TOO.
 
 To back-up your validator identify keypair, **back-up your "validator-keypair.json” file to a secure location.**
 
