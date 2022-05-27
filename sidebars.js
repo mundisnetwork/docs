@@ -1,7 +1,7 @@
 module.exports = {
     docs: {
-        About: ["introduction", "metaverse", "terminology"],
-        "Architecture": [
+        About: ["rs-devnet", "mundis-blockchain", "terminology"],
+        "Devnet Architecture": [
             {
                 type: "category",
                 label: "The Backbone",
@@ -13,22 +13,13 @@ module.exports = {
                     "backbone/security",
                 ],
             },
-            {
-                type: "category",
-                label: "The Multiverse",
-                items: [
-                    "multiverse/layer2",
-                    "multiverse/structure",
-                    "multiverse/activities",
-                    "multiverse/gaming",
-                    "multiverse/access",
-                ],
-            },
             "multiverse/nft",
         ],
-        "Rattle & Shake": [
-            "rattle-shake/register",
+        "Validators": [
+            "rattle-shake/milestones",
+            "rattle-shake/rewards",
             "rattle-shake/terms",
+            "rattle-shake/register",
             "rattle-shake/bugs",
             "rattle-shake/links",
             "rattle-shake/faq",

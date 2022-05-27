@@ -1,5 +1,6 @@
 const math = require("remark-math");
 const katex = require("rehype-katex");
+
 module.exports = {
   title: "Mundis Docs",
   tagline: "Mundis is the Operating System for Metaverse projects",
@@ -56,7 +57,7 @@ module.exports = {
     },
     footer: {
       style: "dark",
-      copyright: `Copyright © ${new Date().getFullYear()} Mundis Labs`,
+      copyright: `Copyright © ${new Date().getFullYear()} Metaverse Labs`,
     },
   },
   presets: [

@@ -1,5 +1,5 @@
 ---
-title: Submitting bugs
+title: Submitting bugs and issues
 ---
 
 Please submit all bugs and feedback as [issues in this Github repo](https://github.com/mundisnetwork/axis/issues).
