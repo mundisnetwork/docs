@@ -45,7 +45,12 @@ module.exports = {
         },
         {
           href: "https://discord.gg/8G2xEFJ5h7",
-          label: "Chat",
+          label: "Discord",
+          position: "right",
+        },
+        {
+          href: "https://twitter.com/MundisNetwork",
+          label: "Twitter",
           position: "right",
         },
         {
