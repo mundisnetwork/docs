@@ -2,7 +2,7 @@
 title: Useful links
 ---
 
-* Mundis Blockchain Exporer (in progress...)
+* [Mundis Blockchain Exporer](https://explorer.mundis.io/)
 * Munds Wallet (in progress...)
 * [Layer 0 Github repository](https://github.com/mundisnetwork/axis)
 * [Submit bugs/issues here](https://github.com/mundisnetwork/axis/issues)
