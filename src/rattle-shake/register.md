@@ -22,15 +22,12 @@ Hardware Recommendations:
   * The AMD Threadripper family is popular between validators
 * RAM
   * 16GB, or more
-* Disk
-  * PCIe Gen3 x4 NVME SSD, or better
-  * Accounts: 500GB, or larger, stored on SSD
-  * Ledger: 1TB or larger, stored on SSD
-  * OS: (Optional) 500GB, or larger. SATA disks are acceptable for the OS partition.
-  * The OS may be installed on the ledger disk, though testing has shown better performance with the ledger on its own disk
-  * Accounts and ledger can be stored on the same disk, however due to high IOPS, this is not recommended
+* Disks
+  * Accounts & Ledger disk: 500GB stored on PCIe Gen3 x4 NVME SSD, or better
+  * Operating System: 200GB
+  * The OS may be installed on the Accounts & Ledger disk, though testing has shown better performance with the ledger on its own disk
 * GPU
-  * Not strictly necessary at this time
+  * Not necessary at this time
 
 Network requirements:
 
