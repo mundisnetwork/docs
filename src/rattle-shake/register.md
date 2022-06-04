@@ -39,7 +39,13 @@ Network requirements:
 
 In order to obtain your allotment of MUNDIS coins, you need to publish your validator's identity public key under your [keybase.io](https://keybase.io) account.
 
-1. Generate your validator's identity keypair by running:
+1. Download the MUNDIS binaries:
+
+```
+sudo bash -c "$(curl -sSfL https://release.mundis.io/v0.9.27/installer)"
+```
+
+2. Generate your validator's identity keypair by running:
 
 ```
 mundis-keygen new -o ~/validator-keypair.json
