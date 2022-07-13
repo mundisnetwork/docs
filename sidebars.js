@@ -1,21 +1,28 @@
 module.exports = {
     docs: {
-        About: ["rs-devnet", "mundis-blockchain", "terminology"],
-        "Devnet Architecture": [
-            {
-                type: "category",
-                label: "The Backbone",
-                items: [
-                    "backbone/overview",
-                    "backbone/layer0",
-                    "backbone/layer1",
-                    "backbone/services",
-                    "backbone/security",
-                ],
-            },
-            "multiverse/nft",
+        "1. Introduction": [
+            "intro/intro",
+            "intro/1-1-metaverse-blockchain",
+            "intro/1-2-metaverse-os",
         ],
-        "Validators": [
+        "2. The Metaverse OS": [
+            "os/intro",
+            "os/2-1-layer0",
+            "os/2-2-layer1",
+            "os/2-3-applayer",
+        ],
+        "3. The Construct": [
+            "construct/intro",
+            "construct/3-1-objectives",
+            "construct/3-2-engage-to-earn",
+        ],
+        "4. Tokenomics": [
+            "tokenomics/4-1-mundis-token",
+            "tokenomics/4-2-gage-token"
+        ],
+        "Roadmap": [],
+        "Rattle & Shake": [
+            "rattle-shake/about",
             "rattle-shake/milestones",
             "rattle-shake/rewards",
             "rattle-shake/terms",

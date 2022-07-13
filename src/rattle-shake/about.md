@@ -1,6 +1,5 @@
 ---
-title: Rattle & Shake Devnet
-slug: /
+title: About
 ---
 
 Rattle & Shake is an ongoing series of incentivised scheduled events that will run continuously throughout the remainder of 2020, where our community can help deploy and test different blockchain releases.
