@@ -20,7 +20,9 @@ module.exports = {
             "tokenomics/4-1-mundis-token",
             "tokenomics/4-2-gage-token"
         ],
-        "Roadmap": [],
+        "5. Roadmap": [
+            "roadmap/5-1-roadmap",
+        ],
         "Rattle & Shake": [
             "rattle-shake/about",
             "rattle-shake/milestones",
