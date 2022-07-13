@@ -11,7 +11,7 @@ Vesting period will be between 1 and 2 years.
 
 ## 4.1.1 Token Allocation
 
-IMG
+![](/img/img4.png)
 
 ## 4.1.2 EARN & BURN systems
 **EARN** by:
