@@ -7,7 +7,7 @@ This section describes how to run a Mundis DEVNET validator node.
 
 The following requirements for running your validator are mandatory, as stated in the [Registration](/rattle-shake/register) section.
 
-- _Software_ : `Ubuntu 20.04 x64` is the only supported OS for the DEVNET.
+- _Software_ : `Ubuntu 20.04 x64` (Server or Desktop) is the only supported OS for the DEVNET.
 - _Hardware_ :
   * CPU
     * 2.6GHz, or faster, 8 cores / 16 threads, or more
