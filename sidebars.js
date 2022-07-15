@@ -26,10 +26,11 @@ module.exports = {
         "Rattle & Shake": [
             "rattle-shake/about",
             "rattle-shake/milestones",
-            "rattle-shake/rewards",
-            "rattle-shake/terms",
             "rattle-shake/register",
+            "rattle-shake/validator",
             "rattle-shake/bugs",
+            "rattle-shake/terms",
+            "rattle-shake/rewards",
             "rattle-shake/links",
             "rattle-shake/faq",
         ],
