@@ -33,7 +33,19 @@ sudo dpkg -i mundis_0.9.27-2_amd64.deb
 
 2. Copy your `validator-keypair.json` identity keypair file generated during [Registration](/rattle-shake/register#2-generate-your-public-key) to the `/var/lib/mundis/validator-identity.json` location.
 
-3. (Optional) If you have a dedicated disk for Accounts & Ledger files, you need to mount it under `/mnt`. The validator node uses the `/mnt/ledger` and `/mnt/accounts` folders to store data. 
+3. Configure DEVNET endpoint and default identity:
+```shell
+mundis config set --url http://api.devnet.mundis.io
+mundis config set -k /var/lib/mundis/validator-identity.json
+```
+
+4. Airdrop some coins and create your vote account:
+```shell
+mundis airdrop 5
+mundis create-vote-account /var/lib/mundis/validator-vote-account.json /var/lib/mundis/validator-identity.json /var/lib/mundis/validator-identity.json --allow-unsafe-authorized-withdrawer
+```
+
+4. (Optional) If you have a dedicated disk for Accounts & Ledger files, you need to mount it under `/mnt`. The validator node uses the `/mnt/ledger` and `/mnt/accounts` folders to store data. 
 
 5. Start your node with:
 ```shell
