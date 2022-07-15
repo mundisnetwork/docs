@@ -35,7 +35,7 @@ sudo dpkg -i mundis_0.9.27-2_amd64.deb
 
 3. Configure DEVNET endpoint and default identity:
 ```shell
-mundis config set --url http://api.devnet.mundis.io
+mundis config set --url https://api.devnet.mundis.io
 mundis config set -k /var/lib/mundis/validator-identity.json
 ```
 
