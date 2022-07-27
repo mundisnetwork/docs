@@ -44,6 +44,7 @@ mundis config set -k /var/lib/mundis/validator-identity.json
 mundis airdrop 5
 mundis create-vote-account /var/lib/mundis/validator-vote-account.json /var/lib/mundis/validator-identity.json /var/lib/mundis/validator-identity.json --allow-unsafe-authorized-withdrawer
 ```
+The validator identity is a system account that is used to pay for all the vote transaction fees submitted to the vote account, so you should always have some funds on identity account.
 
 4. (Optional) If you have a dedicated disk for Accounts & Ledger files, you need to mount it under `/mnt`. The validator node uses the `/mnt/ledger` and `/mnt/accounts` folders to store data. 
 
